@@ -4,7 +4,7 @@
 This is a data engineering project using AWS services, the used infrastructure automates extraction, transformation and loading of customer events in a **Redshift (OLAP)** and **DynamoDB (OLTP)** databases. Services used include AWS API Gateway, Kinesis, Lambda, S3, DynamoDB, Glue, Redshift and Tableau
 
 **The used architecture is as following**
-![clipboard.png](inkdrop://file:k0__zytN2)
+[![BDM-Week-1-Mind-Map-4.jpg](https://i.postimg.cc/qqpG97m0/BDM-Week-1-Mind-Map-4.jpg)](https://postimg.cc/mz6M9Tf6)
 
 # The Data Set
 - Explain the data set
