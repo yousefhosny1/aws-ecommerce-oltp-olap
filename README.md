@@ -13,31 +13,17 @@ This is a data engineering project using AWS services, the used infrastructure a
 - What is problematic?
 - What do you want to do with it?
 
-# Used Tools
-- Explain which tools do you use and why
-- How do they work (don't go too deep into details, but add links)
-- Why did you choose them
-- How did you set them up
 
-## Connect
-## Buffer
-## Processing
-## Storage
-## Visualization
+## Data Ingestion Layer
+#### Ingestion Pipeline
 
-# Pipelines
-- Explain the pipelines for processing that you are building
-- Go through your development and add your source code
+## Data Processing Layer
+#### Stream Processing Pipeline
+#### Batch Processing Pipeline
 
-## Stream Processing
-### Storing Data Stream
-### Processing Data Stream
-## Batch Processing
-## Visualizations
+## Data Storage & Visualization Layer
 
-# Demo
-- You could add a demo video here
-- Or link to your presentation video of the project
+
 
 # Conclusion
 Write a comprehensive conclusion.
