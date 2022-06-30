@@ -1,35 +1,10 @@
-# Title Of Your Project
-Add a catchy title to your project. Something that people immediately know what you are doing
+# AWS E-Commerce OLTP & OLAP Infrastructure
 
 # Introduction & Goals
-- Introduce your project to the reader
-- Orient this section on the Table of contents
-- Write this like an executive summary
-  - With what data are you working
-  - What tools are you using
-  - What are you doing with these tools
-  - Once you are finished add the conclusion here as well
+This is a data engineering project using AWS services, the used infrastructure automates extraction, transformation and loading of customer events in a **Redshift (OLAP)** and **DynamoDB (OLTP)** databases. Services used include AWS API Gateway, Kinesis, Lambda, S3, DynamoDB, Glue, Redshift and Tableau
 
-# Contents
-
-- [The Data Set](#the-data-set)
-- [Used Tools](#used-tools)
-  - [Connect](#connect)
-  - [Buffer](#buffer)
-  - [Processing](#processing)
-  - [Storage](#storage)
-  - [Visualization](#visualization)
-- [Pipelines](#pipelines)
-  - [Stream Processing](#stream-processing)
-    - [Storing Data Stream](#storing-data-stream)
-    - [Processing Data Stream](#processing-data-stream)
-  - [Batch Processing](#batch-processing)
-  - [Visualizations](#visualizations)
-- [Demo](#demo)
-- [Conclusion](#conclusion)
-- [Follow Me On](#follow-me-on)
-- [Appendix](#appendix)
-
+**The used architecture is as following**
+![clipboard.png](inkdrop://file:k0__zytN2)
 
 # The Data Set
 - Explain the data set
@@ -72,7 +47,3 @@ Write a comprehensive conclusion.
 
 # Follow Me On
 Add the link to your LinkedIn Profile
-
-# Appendix
-
-[Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
