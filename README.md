@@ -1,7 +1,9 @@
 # AWS E-Commerce OLTP & OLAP Infrastructure
 
 # Introduction
-This is a data engineering project using AWS services, the used infrastructure automates extraction, transformation and loading of customer events in a **Redshift Datawarehouse for OLAP operations** and **DynamoDB Database for OLTP operations**. Tech Stack used include AWS API Gateway, Kinesis, Lambda, S3, DynamoDB, Glue, Redshift and Tableau.
+This is a data engineering project using AWS services, the used infrastructure automates extraction, transformation and loading of customer events in a **Redshift Datawarehouse for OLAP operations** and **DynamoDB Database for OLTP operations**. 
+
+**Tech Stack**: *AWS API Gateway, Kinesis, Lambda, S3, DynamoDB, Glue, Redshift* and *Tableau.*
 
 **The used architecture is as following**
 [![BDM-Week-1-Mind-Map-1.png](https://i.postimg.cc/cJ1RHkqW/BDM-Week-1-Mind-Map-1.png)](https://postimg.cc/RW86pRVp)
